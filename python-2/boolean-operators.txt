@@ -1,0 +1,17 @@
+Required operators:
+
+¬A, Ā - (not A)
+
+A ∧ B - A and B
+
+A ∨ B - A or B
+
+A ≡ B - A == B
+
+A → B - A <= B
+
+A ≠ B - A != B
+
+Additional operators:
+
+А ∨ ∨ В, А ⊕ В - A ^ B
